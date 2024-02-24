@@ -1,8 +1,14 @@
 ---
+title: "Lab File System"
 layout: post
-title:  "Lab file system"
-date:   2024-02-20 18:35:00 +0800
-categories: xv6
+date: 2024-02-20 11:22
+image: /assets/images/markdown.jpg
+headerImage: false
+tag: xv6
+star: true
+category: blog
+author: yewpo
+description: MIT 6.1810 lab file system.
 ---
 ## 1 Large files (moderate)
 

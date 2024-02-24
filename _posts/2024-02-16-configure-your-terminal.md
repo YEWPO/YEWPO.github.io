@@ -1,10 +1,18 @@
 ---
+title: "Configure your terminal"
 layout: post
-title:  "Configure your terminal"
-date:   2024-02-16 15:01:00 +0800
-categories: terminal
+date: 2024-02-16 22:44
+image: /assets/images/markdown.jpg
+headerImage: false
+tag: 
+- tmux
+- shell
+- nvim
+star: true
+category: blog
+author: yewpo
+description: Configure your terminal to look better!
 ---
-
 > 抛弃`bash`，享受`zsh`
 >
 > `>`表示命令行
