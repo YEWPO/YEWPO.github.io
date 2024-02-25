@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Lab xv6 and Unix utils"
-date:   2024-02-20 18:40:00 +0800
-categories: xv6
+title: "Lab xv6 and Unix utils"
+date: 2024-02-20 18:40
+tag: xv6
+category: blog
+author: yewpo
+description: MIT 6.1810 lab xv6 and unix utils.
 ---
 ## 1 Boot xv6
 

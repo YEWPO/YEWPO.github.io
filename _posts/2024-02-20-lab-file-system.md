@@ -2,10 +2,7 @@
 title: "Lab File System"
 layout: post
 date: 2024-02-20 11:22
-image: /assets/images/markdown.jpg
-headerImage: false
 tag: xv6
-star: true
 category: blog
 author: yewpo
 description: MIT 6.1810 lab file system.
